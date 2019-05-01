@@ -1,0 +1,28 @@
+{
+  "name": "node.js-mysql",
+  "version": "1.0.0",
+  "description": "mysql assigment",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "cli-table3": "^0.5.1",
+    "express": "^4.16.4",
+    "inquirer": "^6.3.1",
+    "mysql": "github:mysqljs/mysql",
+    "prompts": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yevheniia01/Node.js-MySQL.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yevheniia01/Node.js-MySQL/issues"
+  },
+  "homepage": "https://github.com/yevheniia01/Node.js-MySQL#readme"
+}
